@@ -632,6 +632,10 @@ header .search-bar-container label:hover{
     margin:1.5rem 0;    
     background:#222;
   }
+  
+   .row fa {
+    margin-left: 20%;
+  }
 
 }
 
@@ -650,8 +654,8 @@ header .search-bar-container label:hover{
   }
   
   .row fa {
-    margin-left: -20px;
-
+    margin-left: 20%;
+  }
 }
 
 /* pop up */
