@@ -634,7 +634,7 @@ header .search-bar-container label:hover{
   }
   
    .row fa {
-    margin-right: 20%;
+    margin-right: -20%;
   }
 
 }
@@ -654,7 +654,7 @@ header .search-bar-container label:hover{
   }
   
   .row fa {
-    margin-right: 20%;
+    margin-right: -20%;
   }
 }
 
