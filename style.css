@@ -633,7 +633,7 @@ header .search-bar-container label:hover{
     background:#222;
   }
   
-   .row fa {
+   form .row btn fa {
     margin-right: -90%;
   }
 
@@ -653,7 +653,7 @@ header .search-bar-container label:hover{
     width:100%;
   }
   
-  .row fa {
+  form .row btn fa {
     margin-right: -90%;
   }
 }
