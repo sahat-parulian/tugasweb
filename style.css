@@ -648,6 +648,9 @@ header .search-bar-container label:hover{
   .contact .row form .inputBox input{
     width:100%;
   }
+  
+  .row fa {
+    margin-left: -20px;
 
 }
 
